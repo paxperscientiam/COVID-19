@@ -4,4 +4,5 @@ This repository serves as a collection of public information resources that pert
 
 
 # State resources #
+New York: [Department of Health](https://health.ny.gov/diseases/communicable/coronavirus/)
 Vermont: [Department of Health](https://www.healthvermont.gov/covid-19)
