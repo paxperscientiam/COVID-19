@@ -7,3 +7,7 @@ This repository serves as a collection of public information resources that pert
 * New York: [Department of Health](https://health.ny.gov/diseases/communicable/coronavirus/)
   * New York City: [Department of Health and Mental Hygiene](https://www1.nyc.gov/site/doh/health/health-topics/coronavirus.page)
 * Vermont: [Department of Health](https://www.healthvermont.gov/covid-19)
+
+
+# Academic resources
+* Johns Hopkins: [Mapping 2019-nCoV](https://systems.jhu.edu/research/public-health/ncov/)
