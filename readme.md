@@ -2,6 +2,9 @@ Covid-19 Public Information Resources
 ===
 This repository serves as a collection of public information resources that pertain to the [COVID-19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019) outbreak.
 
+# Intergovernmental resources #
+* [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+
 # Central government resources #
 * United States of America
   * [Centers for Disease Control](https://cdc.gov/covid19)
