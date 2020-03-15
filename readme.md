@@ -5,6 +5,8 @@ This repository serves as a collection of public information resources that pert
 # Data hubs
 * [ncov2019.live](https://ncov2019.live/data)
 
+# News
+* Coronavirus testing: Information on COVID-19 tests according to state health departments ([NBC News](https://www.nbcnews.com/health/health-news/coronavirus-testing-information-covid-19-tests-according-state-health-departments-n1158041))
 
 # Intergovernmental resources #
 * [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
