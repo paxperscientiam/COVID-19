@@ -4,7 +4,6 @@ This repository serves as a collection of public information resources that pert
 
 # Data hubs
 * [ncov2019.live](https://ncov2019.live/data)
-* [US National Library of Medicine](https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Nucleotide&VirusLineage_ss=Severe%20acute%20respiratory%20syndrome%20coronavirus%202%20(SARS-CoV-2),%20taxid:2697049)
 
 # Intergovernmental resources #
 * [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
@@ -12,6 +11,8 @@ This repository serves as a collection of public information resources that pert
 # Central government resources #
 * United States of America
   * [Centers for Disease Control](https://cdc.gov/covid19)
+  * [National Library of Medicine](https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Nucleotide&VirusLineage_ss=Severe%20acute%20respiratory%20syndrome%20coronavirus%202%20(SARS-CoV-2),%20taxid:2697049)
+
 
 # USA State, regional, and muncipal resources #
 * New York: [Department of Health](https://health.ny.gov/diseases/communicable/coronavirus/)
