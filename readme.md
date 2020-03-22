@@ -11,6 +11,7 @@ This repository serves as a collection of public information resources that pert
 # Central government resources #
 * United States of America
   * [Centers for Disease Control](https://cdc.gov/covid19)
+  * [Coronavirus.gov by CDC](https://www.coronavirus.gov/)
   * [National Library of Medicine](https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Nucleotide&VirusLineage_ss=Severe%20acute%20respiratory%20syndrome%20coronavirus%202%20(SARS-CoV-2),%20taxid:2697049)
 
 
