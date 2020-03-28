@@ -5,6 +5,7 @@ This repository serves as a collection of public information resources that pert
 # Data hubs
 * [ncov2019.live](https://ncov2019.live/data)
 
+
 # Intergovernmental resources #
 * [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 
@@ -21,6 +22,7 @@ This repository serves as a collection of public information resources that pert
 * Vermont: [Department of Health](https://www.healthvermont.gov/covid-19)
 
 # Academic resources
+* Bing: [COVID-19 Tracker](https://bing.com/covihttps://bing.com/covid )
 * Johns Hopkins: [Mapping 2019-nCoV](https://systems.jhu.edu/research/public-health/ncov/)
 
 # News
