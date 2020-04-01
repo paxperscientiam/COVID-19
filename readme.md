@@ -4,6 +4,7 @@ This repository serves as a collection of public information resources that pert
 
 # Data hubs
 * [ncov2019.live](https://ncov2019.live/data)
+* [New York Times data repo](https://github.com/nytimes/covid-19-data)
 
 
 # Intergovernmental resources #
