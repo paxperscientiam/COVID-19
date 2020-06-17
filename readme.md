@@ -5,6 +5,7 @@ This repository serves as a collection of public information resources that pert
 # Data hubs
 * [ncov2019.live](https://ncov2019.live/data)
 * [New York Times data repo](https://github.com/nytimes/covid-19-data)
+* [Florida's COVID-19 Data and Surveillance Dashboard](https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429)
 
 
 # Intergovernmental resources #
@@ -30,3 +31,4 @@ This repository serves as a collection of public information resources that pert
 * Coronavirus testing: Information on COVID-19 tests according to state health departments ([NBC News](https://www.nbcnews.com/health/health-news/coronavirus-testing-information-covid-19-tests-according-state-health-departments-n1158041); March 14, 2020)
 * What Went Wrong with Coronavirus Testing in the U.S. ([The New Yorker](https://www.newyorker.com/news/news-desk/what-went-wrong-with-coronavirus-testing-in-the-us); March 16, 2020)
 * South Korea’s coronavirus success story underscores how the U.S. initially failed ([WaPo](https://www.washingtonpost.com/world/2020/03/17/south-koreas-coronavirus-success-story-underscores-how-us-initially-failed/); March 17, 2020)
+* Explainer: The coronavirus risks of everyday activities as economies reopen ([Reuters](https://www.reuters.com/article/us-health-coronavirus-risks-explainer/explainer-the-coronavirus-risks-of-everyday-activities-as-economies-reopen-idUSKBN23N1PS))
