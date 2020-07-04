@@ -32,3 +32,7 @@ This repository serves as a collection of public information resources that pert
 * What Went Wrong with Coronavirus Testing in the U.S. ([The New Yorker](https://www.newyorker.com/news/news-desk/what-went-wrong-with-coronavirus-testing-in-the-us); March 16, 2020)
 * South Korea’s coronavirus success story underscores how the U.S. initially failed ([WaPo](https://www.washingtonpost.com/world/2020/03/17/south-koreas-coronavirus-success-story-underscores-how-us-initially-failed/); March 17, 2020)
 * Explainer: The coronavirus risks of everyday activities as economies reopen ([Reuters](https://www.reuters.com/article/us-health-coronavirus-risks-explainer/explainer-the-coronavirus-risks-of-everyday-activities-as-economies-reopen-idUSKBN23N1PS))
+
+
+# DIY
+* https://www.nytimes.com/article/how-to-make-face-mask-coronavirus.html
