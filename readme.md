@@ -35,4 +35,5 @@ This repository serves as a collection of public information resources that pert
 
 
 # DIY
+* https://themasksquad.com
 * https://www.nytimes.com/article/how-to-make-face-mask-coronavirus.html
